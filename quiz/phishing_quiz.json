@@ -1,0 +1,17 @@
+[
+  {
+    "question": "You receive an email from your bank asking for your login credentials via a link. What should you do?",
+    "options": ["Click the link and login", "Ignore it", "Call the bank using the official number", "Forward it to friends"],
+    "answer": "Call the bank using the official number"
+  },
+  {
+    "question": "Which of these URLs is MOST LIKELY a phishing link?",
+    "options": ["https://www.google.com", "https://login-facebook.com", "https://accounts.google.com", "https://www.amazon.in"],
+    "answer": "https://login-facebook.com"
+  },
+  {
+    "question": "What does a phishing attack usually aim to do?",
+    "options": ["Update your system", "Steal personal information", "Fix your device", "Give you rewards"],
+    "answer": "Steal personal information"
+  }
+]
